@@ -1,4 +1,4 @@
-import Note from "../models/note.js";
+import Note from "../models/Note.js";
 import Category from "../models/Category.js";
 
 export async function getAllNotes(req, res) {
